@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZKb8AA6Ri6o9FEqsZYUyOyUxXZQTI8zGg71/V/TRcx7tz+SwqCs99xQznyC1ScCbDQEZlTzGWscO6E8z/blTnw==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Tudo\\Fatec\\TCC\\TCC-Frontend\\TCC-Frontend\\TCC-Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
